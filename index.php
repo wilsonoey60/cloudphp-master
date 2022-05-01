@@ -1,3 +1,4 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+echo "Nama : Wilson Jonathan Oey";
+echo "NIM : 52021801";
